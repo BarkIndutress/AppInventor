@@ -48,9 +48,13 @@ li a.active {
   <li><a href="About Us.html">About Us</a></li>
 </ul>
 
-<head><center><b>
+<head>
+<center>
+<b>
 App Inventor
-</head></center></b>
+</head>
+</center>
+</b>
 
 </body>
 </html>
