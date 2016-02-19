@@ -52,6 +52,10 @@ li a.active {
 <center>
 <b>
 App Inventor
+
+</head>
+</center>
+</b>
 <h2> User interface</h2>
 <img src="User interface.jpeg alt="User interface">
 
@@ -59,12 +63,6 @@ App Inventor
 
 
 
-
-
-
-</head>
-</center>
-</b>
 
 </body>
 </html>
